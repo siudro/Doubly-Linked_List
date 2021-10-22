@@ -139,7 +139,7 @@ class DoublyLinkedListt<T> {
         while (curr!= null) {
             System.out.print(curr.element + "->");
             curr = curr.next;
-        } ميثود printlist() ما اشتغل معايا فسويت واحد جديد 
+        }
     } 
 
     class DNode<T> {
